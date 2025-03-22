@@ -1,0 +1,1 @@
+# write-a-C-program-which-will-the-multiplication-table-of-a-number-without-using-loop
